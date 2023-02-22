@@ -1,0 +1,24 @@
+{
+  "name": "unit-testing-with-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-c": "jest --coverage",
+    "test-w": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmed0saber/unit-testing-with-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmed0saber/unit-testing-with-jest/issues"
+  },
+  "homepage": "https://github.com/ahmed0saber/unit-testing-with-jest#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
